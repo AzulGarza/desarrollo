@@ -7,7 +7,7 @@ Elaborado durante el semestre Primavera 2017 para la clase de Desarrollo Económ
 
 ### ¿Cómo se distribuyen los afromexicanos en el país?
 
-<img scr = https://github.com/FedericoGarza/afromexicanos/blob/master/images/mapa_abs.png>
+<img src = https://github.com/FedericoGarza/afromexicanos/blob/master/images/mapa_abs.png>
 
 
 ![](https://github.com/FedericoGarza/afromexicanos/blob/master/images/mapa_porc.png)
