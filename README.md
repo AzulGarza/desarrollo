@@ -6,3 +6,7 @@ Elaborado durante el semestre Primavera 2017 para la clase de Desarrollo Económ
 ### ¿Qué es un mexicano afrodescendiente o afromexicano?
 
 ### ¿Cómo se distribuyen los afromexicanos en el país?
+
+![](http://FedericoGarza/afromexicanos/images/mapa_abs.png)
+
+![](http://FedericoGarza/afromexicanos/images/mapa_porc.png)
