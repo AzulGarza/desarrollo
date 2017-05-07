@@ -1,15 +1,15 @@
-# Afromexicanos
+# Afromexicanas y afromexicanos
 
 # Contenido
 
 * [Miembros del equipo](#equipo)
 
 * [Introducción](#intro)
-  * [¿Quién es un mexicano afrodescendiente o afromexicano?](#p_1)
+  * [¿Quién es una mexicana afrodescendiente (mexicano afrodescendiente) o afromexicana (afromexicano)?](#p_1)
   * [¿Cuántos afrodescendientes hay en México?](#p_2)
-  * [¿Cómo se distribuyen los afromexicanos en el país?](#p_3)
+  * [¿Cómo se distribuyen las afromexicanas y los afromexicanos en el país?](#p_3)
 
-* [Medición del nivel de desarrollo actual de los afromexicanos](#desarollo)
+* [Medición del nivel de desarrollo actual de las afromexicanas y los afromexicanos](#desarollo)
   * [Pobreza](#pobreza)
 
 # <a name = "equipo"></a> Equipo de trabajo 
@@ -21,11 +21,11 @@
 
 Este trabajo fue elaborado durante el semestre Primavera 2017 para la clase de Desarrollo Económico en el ITAM. Su propósito es describir la situación actual de los afromexicanos. 
 
-### <a name = "p_1"></a> ¿Quién es un mexicano afrodescendiente o afromexicano?
+### <a name = "p_1"></a> ¿Quién es una mexicana afrodescendiente (mexicano afrodescendiente) o afromexicana (afromexicano)?
 
-### <a name = "p_2"></a> ¿Cuántas afrodescendientes hay en México?
+### <a name = "p_2"></a> ¿Cuántas y cuántos afrodescendientes hay en México?
 
-En 2015 el INEGI, la institución que cuenta la población en México, por primera vez decidió calcular el número de afromexicanos incluyendo en la Encuesta Intercensal 2015 (EIC 2015) la siguiente pregunta:
+Desde 2010 varias organizaciones como [México Negro A.C.](http://mexiconegroac.blogspot.mx/) y el [CONAPRED](www.conapred.org.mx/) (Consejo Nacional para Prevenir la Discriminación) intensificaron sus peticiones al [INEGI](www.inegi.org.mx/) (Instituo Nacional de Estadística y Geografía, la institución que cuenta la población en México) de contar el número de afromexicanas y afromexicanas. Debido a la presión ejercida por estas y otras organizaciones en 2011 la ONU recomendó al INEGI realizar el conteo solicitado. Así en 2015 el INEGI por primera vez decidió calcular el número de afromexicanas y afromexicanos incluyendo en la Encuesta Intercensal 2015 (EIC 2015) la siguiente pregunta:
 
 <p align="center">
  <img src= "https://federicogarza.github.io/afromexicanos/images/Captura de pantalla de 2017-05-06 20-57-51.png" />
@@ -61,19 +61,23 @@ Según los datos [tabulados](http://www.beta.inegi.org.mx/proyectos/enchogares/e
     </tr>
 </table>
 
-Es decir, **1 de cada 100 mexicanos se considera afrodescendiente**.
+Es decir, **1 de cada 100 mexicanas y mexicanos se considera afrodescendiente**. No obstante la anterior no es una cifra definitiva pues como señala el activista Sergio Peñaloza Pérez (presidente de México Negro A.C.), el resultado de la EIC 2015
 
-### <a name = "p_3"></a> ¿Cómo se distribuyen los afromexicanos en el país?
+***
+no refleja verdaderamente cuántos somos, porque muchos prefieren no asumir esa identidad debido a la discriminación histórica que hemos padecido.
+***
 
-Además, la EIC 2015 nos permite conocer cómo están distribuidos los afromexicanos. Por número de habitantes se distribuyen de la siguiente manera:
+### <a name = "p_3"></a> ¿Cómo se distribuyen las afromexicanas y los afromexicanos en el país?
+
+Además, la EIC 2015 nos permite conocer cómo están distribuidos las afromexicanas y los afromexicanos. Por número de habitantes se distribuyen de la siguiente manera:
 
 <p align="center">
   <img src="https://federicogarza.github.io/afromexicanos/images/mapa_abs.png" width="650"/>
 </p>
 
-Así, los **cinco** estados con **mayor cantidad** de afromexicanos son:
+Así, los **cinco** estados con **mayor cantidad** de afromexicanas y afromexicanos son:
 
-|Estado| Total de afromexicanos |
+|Estado| Total de afromexicanas y afromexicanos |
 |------|:------:|
 | México | 304 274|
 | Veracruz | 266 163|
@@ -90,7 +94,7 @@ En proporción con la población estatal, sin embargo, se distribuyen como sigue
 
 Por lo tanto, los **cinco** estados con **mayor cantidad** de afromexicanos **en proporción** a la población estatal son:
 
-|Estado| Porcentaje de afromexicanos |
+|Estado| Porcentaje de afromexicanas y afromexicanos |
 |------|:------:|
 | Guerrero | 6.5% |
 | Oaxaca | 4.9%|
@@ -98,7 +102,9 @@ Por lo tanto, los **cinco** estados con **mayor cantidad** de afromexicanos **en
 | México | 1.9% |
 | Ciudad de México | 1.8% |
 
-# <a name = "desarollo"></a> Medición del nivel de desarrollo actual de los afromexicanos
+
+
+# <a name = "desarollo"></a> Medición del nivel de desarrollo actual de las afromexicanas y los afromexicanos
 
 ## <a name = "pobreza"></a> Pobreza
 
