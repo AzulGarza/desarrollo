@@ -25,20 +25,22 @@ Este trabajo fue elaborado durante el semestre Primavera 2017 para la clase de D
 
 ### <a name = "p_2"></a> ¿Cuántas afrodescendientes hay en México?
 
-En 2015 el INEGI, la institución que cuenta la población en México, por primera vez decidió calcular el número de afromexicanos incluyendo en la Encuesta Intercensal 2015 (EIC 2015) la siguiente pregunta
+En 2015 el INEGI, la institución que cuenta la población en México, por primera vez decidió calcular el número de afromexicanos incluyendo en la Encuesta Intercensal 2015 (EIC 2015) la siguiente pregunta:
 
-¡[]
+<p align="center">
+ <img src= "https://federicogarza.github.io/afromexicanos/images/Captura de pantalla de 2017-05-06 20-57-51.png" />
+</p>
 
 Según los datos [tabulados](http://www.beta.inegi.org.mx/proyectos/enchogares/especiales/intercensal/) de la EIC 2015, los resultados obtenidos **a nivel nacional** son los siguientes
 
 |Respuesta | Porcentaje del total de la población | Total |
 |------|:-------:|:-----:|
-|Sí | 1.16 | 1 381 853 |
-|Sí, en parte | 0.50 | 597 654 | 
-|No | 96.03| 114 785 382 |
-|No sabe | 1.41 | 2 765 854 |
+|Sí | 1.16% | 1 381 853 |
+|Sí, en parte | 0.50% | 597 654 | 
+|No | 96.03%| 114 785 382 |
+|No sabe | 1.41% | 2 765 854 |
 
-Es decir, hay **** afromexicanos  **1 de cada 100 mexicanos se considera afrodescendiente**.
+Es decir, **1 de cada 100 mexicanos se considera afrodescendiente**.
 
 ### <a name = "p_3"></a> ¿Cómo se distribuyen los afromexicanos en el país?
 
@@ -56,8 +58,8 @@ Así, los **cinco** estados con **mayor cantidad** de afromexicanos son:
 | Veracruz | 266 163|
 | Guerero | 229 514|
 | Oaxaca | 196 213|
-| Ciudad de Mxico | 160 353|
-[Con datos del INEGI]
+| Ciudad de México | 160 353|
+
 
 En proporción con la población estatal, sin embargo, se distribuyen como sigue:
 
@@ -69,12 +71,11 @@ Por lo tanto, los **cinco** estados con **mayor cantidad** de afromexicanos **en
 
 |Estado| Porcentaje de afromexicanos |
 |------|:------:|
-| Guerrero | 6.5 |
-| Oaxaca | 4.9|
-| Veracruz | 3.3 |
-| México | 1.9 |
-| Ciudad de Mxico | 1.8 |
-[Con datos del INEGI]
+| Guerrero | 6.5% |
+| Oaxaca | 4.9%|
+| Veracruz | 3.3% |
+| México | 1.9% |
+| Ciudad de México | 1.8% |
 
 # <a name = "desarollo"></a> Medición del nivel de desarrollo actual de los afromexicanos
 
