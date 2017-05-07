@@ -33,12 +33,33 @@ En 2015 el INEGI, la institución que cuenta la población en México, por prime
 
 Según los datos [tabulados](http://www.beta.inegi.org.mx/proyectos/enchogares/especiales/intercensal/) de la EIC 2015, los resultados obtenidos **a nivel nacional** son los siguientes
 
-|Respuesta | Porcentaje del total de la población | Total |
-|------|:-------:|:-----:|
-|Sí | 1.16% | 1 381 853 |
-|Sí, en parte | 0.50% | 597 654 | 
-|No | 96.03%| 114 785 382 |
-|No sabe | 1.41% | 2 765 854 |
+<table align="center" style="margin: 0px auto;">
+    <tr>
+         <th>Respuesta </th>
+         <th>Porcentaje del total de la población</th>
+         <th>Total </th>
+    </tr>
+    <tr>
+         <td>Sí </td>
+         <td>1.16%</td>
+         <td>1 381 853</td>
+    </tr>
+    <tr>
+         <td>Sí, en parte</td>
+         <td>0.50% </td>
+         <td>597 654</td>
+    </tr>
+    <tr>
+         <td>No </td>
+         <td>96.03% </td>
+         <td>114 785 382</td>
+    </tr>
+    <tr>
+         <td> No sabe</td>
+         <td> 1.41% </td>
+         <td> 2 765 854</td>
+    </tr>
+</table>
 
 Es decir, **1 de cada 100 mexicanos se considera afrodescendiente**.
 
