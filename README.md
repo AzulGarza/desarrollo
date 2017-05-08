@@ -130,7 +130,18 @@ Para medir la pobreza de las afromexicanas y los afromexicanos utilizamos el enf
 
 ### <a name = "ingreso"></a> Ingreso
 
-Consideramos como **variable relevante** el **ingreso por trabajo**. Del **ingreso por trabajo** se consideran **debajo del bienestar de ingreso** a aquellas afromexicanas y afromexicanos con un **ingreso por trabajo menor a un salario mínimo mensual (del 2015)**. Con estos supuestos obtenemos que la distribución de bienestar de ingreso bajo es:
+Consideramos como **variable relevante** el **ingreso por trabajo**. Del **ingreso por trabajo** se consideran **debajo del bienestar de ingreso** a aquellas afromexicanas y afromexicanos con un **ingreso por trabajo menor a un salario mínimo mensual (del 2015)**. Con estos supuestos obtenemos los siguientes resultados:
+
+
+||Afromexicanas y afromexicanos| Mexicanas y mexicanos|
+|------|:-------:|:-------:|
+|Porcentaje  debajo del bienestar de ingreso|9.1%|7.8%|
+
+La distribución de bienestar de ingreso bajo es:
+
+<p align="center">
+  <img src="https://federicogarza.github.io/afromexicanas_y_afromexicanos/images/" width="650" />
+</p>
 
 Así, los **cinco estados** con mayor porcentaje de afromexicanas y afromexicanso **debajo del bienestar de ingreso** son:
 
@@ -143,6 +154,29 @@ Así, los **cinco estados** con mayor porcentaje de afromexicanas y afromexicans
 |Chiapas|13.0%|
 
 ### <a name ="rezaed"></a> Rezago educativo
+
+Consideramos a la **población con rezago educativo** a aquella que tiene **15 y más** años de edad y **no ha concluido la educación secundaria**. Con lo cual se obtiene el siguiente resultado:
+
+||Afromexicanas y afromexicanos| Mexicanas y mexicanos|
+|------|:-------:|:-------:|
+|Porcentaje con rezago educativo|36.9%|35.1%|
+
+La distribución a nivel nacional es:
+
+<p align="center">
+  <img src="https://federicogarza.github.io/afromexicanas_y_afromexicanos/images/" width="650" />
+</p>
+
+Con lo que los **cinco estados con mayor rezago educativo** de afromexicanas y afromexicanos son:
+
+|Estado | Porcentaje con rezago educativo|
+|-------|:-------:|
+|Morelos|52.6%|
+|Oaxaca|52.1%|
+|Baja California Sur|49.5%|
+|Chiapas|48.4%|
+|Guerrero|45.2%|
+
 
 
 
