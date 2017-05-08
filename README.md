@@ -130,4 +130,20 @@ Para medir la pobreza de las afromexicanas y los afromexicanos utilizamos el enf
 
 ### <a name = "ingreso"></a> Ingreso
 
+Consideramos como **variable relevante** el **ingreso por trabajo**. Del **ingreso por trabajo** se consideran **debajo del bienestar de ingreso** a aquellas afromexicanas y afromexicanos con un **ingreso por trabajo menor a un salario mínimo mensual (del 2015)**. Con estos supuestos obtenemos que la distribución de bienestar de ingreso bajo es:
+
+Así, los **cinco estados** con mayor porcentaje de afromexicanas y afromexicanso **debajo del bienestar de ingreso** son:
+
+|Estado | Porcentaje debajo del bienestar de ingreso |
+|-------|:-------:|
+|Guerreo|14.4%|
+|Veracruz|13.3%|
+|Morelos|13.3%|
+|Michoacán|13.1%|
+|Chiapas|13.0%|
+
+### <a name ="rezaed"></a> Rezago educativo
+
+
+
 
