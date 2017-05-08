@@ -194,13 +194,64 @@ La distribución a nivel nacional es:
 
 Con lo que los **cinco estados** con mayor población de afromexicanas y afromexicanos **sin afiliación a servicios de salud** son:
 
-|Estado | Porcentaje con rezago educativo|
+|Estado | Porcentaje sin afiliación a servicios de salud|
 |-------|:-------:|
 |Michoacán|32.1%|
 |Chiapas|29.7%|
 |Yucatán|26.8%|
 |Tabasco|25.4%|
 |Puebla|21.3%|
+
+### <a name="vivenda"></a> Calidad y espacios de la vivienda
+
+La **variable relevante** es **el material del piso de la vivienda**. Con ello obtenemos:
+
+||Afromexicanas y afromexicanos| Mexicanas y mexicanos|
+|------|:-------:|:-------:|
+|Porcentaje pisos de tierra|5.1%|3.6%|
+|Porcentaje pisos de cemento o firme|58.0%|52.7%|
+|Porcentaje pisos mosaico, madera u otro|36.5%|43.2|
+
+La distribución a nivel nacional es:
+
+<p align="center">
+  <img src="https://federicogarza.github.io/afromexicanas_y_afromexicanos/images/" width="650" />
+</p>
+
+Con lo que los **cinco estados** con mayor población de afromexicanas y afromexicanos **con piso de tierra** son:
+
+|Estado | Porcentaje con piso de tierra|
+|-------|:-------:|
+|Guerrero|11.9%|
+|Oaxaca|11.1%|
+|Veracruz|6.9%|
+|Chiapas|6.6%|
+|Michoacán|5.2%|
+
+### <a name="servivienda"></a> Acceso a servicios básicos de la vivienda
+
+La **variable relevante** es **disposición de agua entubada**. Con ello obtenemos:
+
+||Afromexicanas y afromexicanos| Mexicanas y mexicanos|
+|------|:-------:|:-------:|
+|Porcentaje de viviendas sin agua entubada|8.0%|5.4%|
+
+La distribución a nivel nacional es:
+
+<p align="center">
+  <img src="https://federicogarza.github.io/afromexicanas_y_afromexicanos/images/" width="650" />
+</p>
+
+Con lo que los **cinco estados** con mayor población de afromexicanas y afromexicanos cuyas viviendas **no tienen agua entubada** son:
+
+|Estado | Porcentaje sin agua entubada|
+|-------|:-------:|
+|Guerrero|14.8%|
+|Veracruz|14.7%|
+|Oaxaca|12.6%|
+|Chiapas|11.0%|
+|Baja California Sur|10.1%|
+
 
 
 
