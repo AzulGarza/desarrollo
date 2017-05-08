@@ -202,7 +202,7 @@ Con lo que los **cinco estados** con mayor población de afromexicanas y afromex
 |Tabasco|25.4%|
 |Puebla|21.3%|
 
-### <a name="vivenda"></a> Calidad y espacios de la vivienda
+### <a name="vivienda"></a> Calidad y espacios de la vivienda
 
 La **variable relevante** es **el material del piso de la vivienda**. Con ello obtenemos:
 
