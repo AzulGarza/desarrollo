@@ -11,6 +11,14 @@
 
 * [Medición del nivel de desarrollo actual de las afromexicanas y los afromexicanos](#desarollo)
   * [Pobreza](#pobreza)
+    * [Ingreso](#ingreso)
+    * [Rezago educativo](#rezaed)
+    * [Acceso a servicios de salud](#salud)
+    * [Aceso a la seguridad social](#segsoc)
+    * [Acceso a la alimentación](#alim)
+    * [Calidad y espacios de la vivienda](#vivienda)
+    * [Aceso a servicios básicos de la vivienda](#servivienda)
+    * [Grado de cohesión social](#cohe)
 
 # <a name = "equipo"></a> Equipo de trabajo 
 * María Fernanda Muñoz. Contacto: <mail@mail.com>.
@@ -115,5 +123,8 @@ Por lo tanto, los **cinco** estados con **mayor cantidad** de afromexicanas y af
 
 ## <a name = "pobreza"></a> Pobreza
 
+Para medir la pobreza de las afromexicanas y los afromexicanos utilizamos el enfoque multidimensional del [CONEVAL](http://www.coneval.org.mx/InformesPublicaciones/FolletosInstitucionales/Documents/Medicion-multidimensional-de-la-pobreza-en-Mexico.pdf) (Consejo Nacional de Evaluación de la Política de Desarrollo Social, la institución que oficialmente mide la pobreza en México). Como los datos requeridos para realizar la medición de la pobreza de las afromexicanas y los afromexicanos no son exhaustivos, elegimos las variables que consideramos relevantes para describir cada dimensión. En los apartados siguientes se especifica qué variables utilizamos para cada dimensión.
+
+### <a name = "ingreso"></a> Ingreso
 
 
