@@ -6,6 +6,9 @@
 
 * [Introducción](#intro)
 
+  * [Contexto]
+  * [Marco legal]
+
   * [¿Quién es una mexicana afrodescendiente (mexicano afrodescendiente) o afromexicana (afromexicano)?](#p_1)
   * [¿Cuántos afrodescendientes hay en México?](#p_2)
   * [¿Cómo se distribuyen las afromexicanas y los afromexicanos en el país?](#p_3)
@@ -20,6 +23,10 @@
     * [Acceso a servicios de salud](#salud)
     * [Calidad y espacios de la vivienda](#vivienda)
     * [Aceso a servicios básicos de la vivienda](#servivienda)
+    * [Índice de marginación](#marg)
+    
+* [Propuestas](#prop)
+
 
 # <a name = "equipo"></a> Equipo de trabajo 
 * María Fernanda Muñoz. Contacto: <mail@mail.com>.
@@ -249,6 +256,35 @@ Con lo que los **cinco estados** con mayor población de afromexicanas y afromex
 |Oaxaca|12.6%|
 |Chiapas|11.0%|
 |Baja California Sur|10.1%|
+
+### <a name="marg"></a> Índice de marginación
+
+
+
+# <a name="prop"></a> Propuestas
+
+Para 
+
+* Reconomimiento constitucional y local. 
+  * Artículo 2o constitucional: reconocimiento de los derechos indígenas 
+    * "La Nación tiene una composición pluricultural sustentada originalmente en suspubelos indígenas" 
+    * "Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad EQUIPARABLE a     aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley". 
+    * ¿Equiparables aunque no sean pueblos originarios del territorio nacional? 
+    * Reconocimiento de derechos territoriales para los afrodescendientes - derecho a la consulta previa. 
+  * Constituciones y leyes locales: 
+    * Oaxaca: aprobación reforma sobre los derechos de los pueblos indígenas y afromexicanos (2013). 
+    * Guerrero: reconocimiento constitucional de los afrodescendientes en 2014. Subsecretaría para el Desarrollo del pueblo Afromexicano    (2014)
+
+* Recopilar mayor información estadística de las y los afrodescendientes.
+  * El INEGI debe adaptar todas sus encuestas a la autoadscripción afrodescendiente: debe incluir la pregunta relevante.
+  
+* Capacitación de autoridades para que reconozcan la existencia de afrodescendientes mexicanas y mexicanos en nuestro país y con esto el reconocimiento y respeto pleno de sus derechos como ciudadanos.
+
+* La SEP debe incluir en los libros de historia la participación histórica de las y los afrodescendientes para reconocer sus aportaciones culturales, sociales y económicas.
+
+* Fomentar el acceso a puestos públicos de las y los afrodescendientes.
+
+
 
 
 
