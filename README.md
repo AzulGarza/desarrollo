@@ -44,7 +44,7 @@ Este trabajo fue elaborado durante el semestre Primavera 2017 para la clase de D
 Desde 2010 varias organizaciones como [México Negro A.C.](http://mexiconegroac.blogspot.mx/) y el [CONAPRED](www.conapred.org.mx/) (Consejo Nacional para Prevenir la Discriminación) intensificaron sus peticiones al [INEGI](www.inegi.org.mx/) (Instituo Nacional de Estadística y Geografía, la institución que cuenta la población en México) de contar el número de afromexicanas y afromexicanas. Debido a la presión ejercida por estas y otras organizaciones, en 2011 la ONU recomendó al INEGI realizar el conteo solicitado. Así en 2015 el INEGI por primera vez decidió calcular el número de afromexicanas y afromexicanos incluyendo en la Encuesta Intercensal 2015 (EIC 2015) la siguiente pregunta:
 
 <p align="center">
- <img src= "https://federicogarza.github.io/afromexicanas_y_afromexicanos/images/Captura de pantalla de 2017-05-06 20-57-51.png" />
+ <img src= "https://federicogarza.github.io/desarrollo/images/Captura de pantalla de 2017-05-06 20-57-51.png" />
 </p>
 
 Según los datos [tabulados](http://www.beta.inegi.org.mx/proyectos/enchogares/especiales/intercensal/) de la EIC 2015, los resultados obtenidos **a nivel nacional** son los siguientes
