@@ -5,12 +5,15 @@
 * [Integrantes del equipo](#equipo)
 
 * [Introducción](#intro)
+
   * [¿Quién es una mexicana afrodescendiente (mexicano afrodescendiente) o afromexicana (afromexicano)?](#p_1)
   * [¿Cuántos afrodescendientes hay en México?](#p_2)
   * [¿Cómo se distribuyen las afromexicanas y los afromexicanos en el país?](#p_3)
 
 * [Medición del nivel de desarrollo actual de las afromexicanas y los afromexicanos](#desarollo)
+
   * [Pobreza](#pobreza)
+  
     * [Ingreso](#ingreso)
     * [Rezago educativo](#rezaed)
     * [Acceso a servicios de salud](#salud)
