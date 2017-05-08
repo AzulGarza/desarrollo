@@ -177,6 +177,31 @@ Con lo que los **cinco estados con mayor rezago educativo** de afromexicanas y a
 |Chiapas|48.4%|
 |Guerrero|45.2%|
 
+### <a name="salud"></a> Acceso a servicios de salud
+
+La **variable relevante** es la **afiliación (o no) a servicios de salud**. Con ello obtenemos:
+
+||Afromexicanas y afromexicanos| Mexicanas y mexicanos|
+|------|:-------:|:-------:|
+|Porcentaje afiliada|82.1%|82.2%|
+|Porcentaje no afiliada|17.7%|17.3%|
+
+La distribución a nivel nacional es:
+
+<p align="center">
+  <img src="https://federicogarza.github.io/afromexicanas_y_afromexicanos/images/" width="650" />
+</p>
+
+Con lo que los **cinco estados** con mayor población de afromexicanas y afromexicanos **sin afiliación a servicios de salud** son:
+
+|Estado | Porcentaje con rezago educativo|
+|-------|:-------:|
+|Michoacán|32.1%|
+|Chiapas|29.7%|
+|Yucatán|26.8%|
+|Tabasco|25.4%|
+|Puebla|21.3%|
+
 
 
 
