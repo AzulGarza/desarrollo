@@ -79,9 +79,9 @@ Según los datos [tabulados](http://www.beta.inegi.org.mx/proyectos/enchogares/e
 
 Es decir, **1 de cada 100 mexicanas y mexicanos se considera afrodescendiente**. No obstante la anterior no es una cifra definitiva pues como señala el activista Sergio Peñaloza Pérez (presidente de México Negro A.C.), el resultado de la EIC 2015
 
-***
-no refleja verdaderamente cuántos somos, porque muchos prefieren no asumir esa identidad debido a la discriminación histórica que hemos padecido.
-***
+
+>no refleja verdaderamente cuántos somos, porque muchos prefieren no asumir esa identidad debido a la discriminación histórica que hemos
+>padecido
 
 Por otro lado, la distribución de afromexicanas y afromexicanos por sexo es:
 
