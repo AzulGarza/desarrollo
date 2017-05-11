@@ -976,9 +976,9 @@ fieldset[disabled] .btn-theme {
 }
 
 .carousel-title {
-  font-size: 50px;
+  font-size: 65px;
   font-weight: 700;
-  color: #f4953b;
+  color: #ffff;
   line-height: 1.1;
   text-transform: uppercase;
   vertical-align: text-top;
