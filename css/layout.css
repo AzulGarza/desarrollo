@@ -947,7 +947,9 @@ fieldset[disabled] .btn-theme {
 }
 
 /*------------------------------------------------------------------
-    [Full Screen Carousel]
+    [Full Screen 
+
+]
 ------------------------------------------------------------------*/
 .full-screen {
   background-size: cover;
@@ -979,6 +981,11 @@ fieldset[disabled] .btn-theme {
   color: #f4953b;
   line-height: 1.1;
   text-transform: uppercase;
+}
+
+.carousel-text {
+	
+  
 }
 
 @media (max-width: 768px) {
