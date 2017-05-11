@@ -477,7 +477,7 @@ fieldset[disabled] .btn-theme {
   	[Footer]
 ------------------------------------------------------------------*/
 .footer {
-  background: url(../img/1920x1080/03.jpg) no-repeat;
+  background: url(../img/afro_4.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -974,9 +974,9 @@ fieldset[disabled] .btn-theme {
 }
 
 .carousel-title {
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 700;
-  color: #fff;
+  color: #f4953b;
   line-height: 1.1;
   text-transform: uppercase;
 }
