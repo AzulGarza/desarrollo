@@ -984,9 +984,9 @@ fieldset[disabled] .btn-theme {
   vertical-align: text-top;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .carousel-title {
-    font-size: 60px;
+    font-size: 40px;
   }
 }
 
