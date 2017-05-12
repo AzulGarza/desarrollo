@@ -42,6 +42,25 @@
                 background-color: #dceded;
                 color: black;
             }
+            
+            blockquote {
+              background: #f9f9f9;
+              border-left: 10px solid #ccc;
+              margin: 1.5em 10px;
+              padding: 0.5em 10px;
+              quotes: "\201C""\201D""\2018""\2019";
+            }
+            blockquote:before {
+              color: #ccc;
+              content: open-quote;
+              font-size: 4em;
+              line-height: 0.1em;
+              margin-right: 0.25em;
+              vertical-align: -0.4em;
+            }
+            blockquote p {
+              display: inline;
+            }
          </style>
     </head>
     <!-- END HEAD -->
@@ -145,7 +164,6 @@
                         (EIC 2015) la siguiente pregunta:
                     </p>
                     <br>
-                    <br>
                     <img src="../images/Captura de pantalla de 2017-05-06 20-57-51.png" align="middle">
                     <br>
                     <br>
@@ -191,12 +209,12 @@
                         No obstante la anterior no es una cifra definitiva pues como señala el activista
                         Sergio Peñaloza Pérez (presidente de México Negro A.C.), el resultado de la EIC 2015
                     </p>
-                    <q>
+                    <blackquote>
                         no refleja verdaderamente cuántos somos, 
                         porque muchos prefieren no asumir esa identidad debido a la 
                         discriminación histórica que hemos
                         padecido
-                    </q>
+                    </blackquote>
                 </div>
                 <div class="col-sm-2">
                 </div>
