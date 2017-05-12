@@ -229,6 +229,9 @@
                 </div>
             </div>
             <!--// end row -->
+            $.get("banner.html", function(data){
+            $(this).children("div:first").html(data);
+            });
         <!--========== END PAGE LAYOUT ==========-->
 
       
