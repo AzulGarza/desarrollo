@@ -68,6 +68,18 @@ a:focus, a:hover, a:active {
   content: " ";
 }
 
+hr {
+width: 80%;
+height: 4px;
+margin-left: auto;
+margin-right: auto;
+background-color:#d2d9dd;
+color:#d2d9dd;
+border: 0 none;
+margin-top: 5px;
+margin-bottom:5px;
+}
+
 span {
   font-size: 14px;
   font-weight: 400;
