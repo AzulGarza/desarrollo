@@ -20,10 +20,11 @@ body {
 }
 
 p {
+  text-align:"justify";
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #a6a7aa;
+  color: #4f5156;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -39,13 +40,13 @@ li a {
 
 a {
   font-family: Hind, sans-serif;
-  color: #81848f;
+  color: #cc2ac1;
   outline: 0;
 }
 
 a:focus, a:hover, a:active {
   outline: 0;
-  color: #999caa;
+  color: #b58bb1;
   text-decoration: none;
 }
 
@@ -134,6 +135,26 @@ h4 {
   outline: none;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #dcf4ee}
+tr:nth-child(odd){background-color: #e4f4dc}
+
+th {
+    background-color: #b7c7f7;
+    color: black;
+}
+
+
 /* Section Seperator */
 .section-seperator {
   border-bottom: 1px solid #edf0f2;
@@ -155,24 +176,22 @@ h4 {
   	[Blockquote]
 ------------------------------------------------------------------*/
 .blockquote {
-  position: relative;
-  font-size: 17px;
-  font-weight: 400;
-  font-family: Hind, sans-serif;
-  color: #a6a7aa;
-  line-height: 1.4;
-  border-left: none;
-  margin-left: 20px;
+  background: #f9e3f9;
+  border-left: 10px solid #efb1ef;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
 }
-
 .blockquote:before {
-  position: absolute;
-  top: 0;
-  left: -20px;
-  font-size: 60px;
-  display: inline-block;
-  color: #17bed2;
-  content: '“';
+  color: #efb1ef;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+.blockquote p {
+  display: inline;
 }
 
 /*------------------------------------------------------------------
