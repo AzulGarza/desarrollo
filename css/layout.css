@@ -171,6 +171,10 @@ caption {
   caption-side: bottom;
 }
 
+iframe{
+ width: 100vw;
+ height: calc(100vw/1.77);
+}
 
 /* Section Seperator */
 .section-seperator {
