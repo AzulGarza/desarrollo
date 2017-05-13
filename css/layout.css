@@ -151,6 +151,7 @@ table {
     border-collapse: collapse;
     width: 100%;
     padding: 10px;
+    table-caption:
 }
 
 th, td {
@@ -160,6 +161,7 @@ th, td {
 
 tr:nth-child(even){background-color: #dcf4ee}
 tr:nth-child(odd){background-color: #e4f4dc}
+tr:hover {background-color: #fbd4fc}
 
 th {
     background-color: #b7c7f7;
