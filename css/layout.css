@@ -20,7 +20,7 @@ body {
 }
 
 p {
-  text-align:"justify";
+  text-align:justify;
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
