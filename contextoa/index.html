@@ -30,6 +30,12 @@
           margin: 0 auto;
         }
         </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.js"></script> 
+            <script> 
+            $(function(){
+              $("#mapa_porc").load("../maps/mapa_porc.html"); 
+            });
+            </script> 
     </head>
     <!-- END HEAD -->
 
@@ -339,9 +345,7 @@
                     <div class="margin-b-20">
                         <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
                             <!--img class="img-responsive" src="../../images/mapa_abs.png" alt="Mapa poblacion rel"-->
-                            <iframe width="600" height="450"
-                                src="../maps/mapa_porc.html">
-                            </iframe> 
+                            <div id="mapa_porc"></div>
                         </div>
                     </div>
                 </div>
