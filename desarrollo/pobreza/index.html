@@ -36,13 +36,35 @@
                 padding: 8px;
             }
 
-            tr:nth-child(even){background-color: #f2f2f2}
+            tr:nth-child(even){background-color: #dcf4ee}
+            tr:nth-child(odd){background-color: #e4f4dc}
 
             th {
-                background-color: #dceded;
+                background-color: #b7c7f7;
                 color: black;
             }
-         </style>
+
+            blockquote {
+              background: #f9e3f9;
+              border-left: 10px solid #efb1ef;
+              margin: 1.5em 10px;
+              padding: 0.5em 10px;
+              quotes: "\201C""\201D""\2018""\2019";
+            }
+            blockquote:before {
+              color: #efb1ef;
+              content: open-quote;
+              font-size: 4em;
+              line-height: 0.1em;
+              margin-right: 0.25em;
+              vertical-align: -0.4em;
+            }
+            blockquote p {
+              display: inline;
+            }
+
+            a:link {color:#cc2ac1;}
+        </style>
     </head>
     <!-- END HEAD -->
 
