@@ -3,7 +3,7 @@
     <!-- BEGIN HEAD -->
     <head>
         <meta charset="utf-8"/>
-        <title>Contexto actual</title>
+        <title>Pobreza</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="" name="description"/>
@@ -19,23 +19,11 @@
         <link href="../../vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
 
         <!-- THEME STYLES -->
-        <link href="../css/layout.css" rel="stylesheet" type="text/css"/>
+        <link href="../../css/layout.css" rel="stylesheet" type="text/css"/>
 
         <!-- Favicon -->
         <link rel="../../shortcut icon" href="favicon.ico"/>
         <!-- Tables -->
-        <style> 
-        #inner {
-          display: table;
-          margin: 0 auto;
-        }
-        </style>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.js"></script> 
-            <script> 
-            $(function(){
-              $("#mapa_porc").load("../maps/mapa_porc.html"); 
-            });
-            </script> 
     </head>
     <!-- END HEAD -->
 
@@ -76,12 +64,13 @@
                                     <a class="nav-item-child nav-item-hover" data-toggle="dropdown" href="#" role="button"
                                        aria-haspopup="true" aria-expanded="false">Medición de desarrollo</a>
                                     <div class="dropdown-menu" style="background: transparent; transition: .5s ease-in-out 3s;;">
-                                      <a class="nav-item-child" style="padding: 0px; fontsize: 10px" href="../desarrollo/pobreza">Pobreza</a>
-                                      <a class="nav-item-child" style="padding: 0px; fontsize: 10px" href="#">Another action</a>
-                                      <a class="nav-item-child" style="padding: 0px; fontsize: 10px" href="#">Something else here</a>
+                                      <a class="nav-item-child" style="padding: 0px; fontsize: 10px" href="../../desarrollo/pobreza">Pobreza</a>
+                                      <a class="nav-item-child" style="padding: 0px; fontsize: 10px" href="../../desarrollo/condicionsocial">Condición social</a>
+                                      <a class="nav-item-child" style="padding: 0px; fontsize: 10px" href="../../desarrollo/condicionlegal">Condición legal</a>
+                                      <a class="nav-item-child" style="padding: 0px; fontsize: 10px" href="../../desarrollo/conclusiones">Conclusiones</a>  
                                     </div>
                                </li>
-                               <li class="nav-item"><a class="nav-item-child nav-item-hover" href="cuentanos">Cuéntanos tu experiencia</a>
+                               <li class="nav-item"><a class="nav-item-child nav-item-hover" href="../../cuentanos">Cuéntanos tu experiencia</a>
                                </li>
                             </ul>
                         </div>
@@ -94,25 +83,38 @@
         <!--========== END HEADER ==========-->
 
         <!--========== PARALLAX ==========-->
-        <div class="parallax-window" data-parallax="scroll" data-image-src="../../img/afro_5.jpg">
+        <div class="parallax-window" data-parallax="scroll" data-image-src="../../img/afro_12.jpg">
             <div class="parallax-content container">
-                <h1 class="carousel-title" style="font-size:35px" style="color:#ffff">Contexto actual</h1>
+                <h1 class="carousel-title" style="font-size:35px">Pobreza</h1>
             </div>
         </div>
         <!--========== PARALLAX ==========-->
 
         <!--========== PAGE LAYOUT ==========-->
         <!-- Row -->
+        
         <div class="content-lg container">
-            <!-- Quiénes son-->
-            <section class="section-separator">
+            <!-- Ingreso -->
+            <section>
             <div class="row margin-b-10">
                 <div class="col-sm-2">
                 </div>
                 <div class="col-sm-8">
-                    <h2>¿Quién es una mexicana afrodescendiente (mexicano afrodescendiente) o afromexicana (afromexicano)?</h2>
+                    <h2>Introducción</h2>
+                    <br>
                     <p>
-                        
+                        Para medir la pobreza de las afromexicanas y los afromexicanos nos basamos en el enfoque multidimensional del 
+                        <a href="http://www.coneval.org.mx/InformesPublicaciones/FolletosInstitucionales/Documents/Medicion-multidimensional-de-la-pobreza-en-Mexico.pdf">
+                        CONEVAL</a>
+                        (Consejo Nacional de Evaluación de la Política de Desarrollo Social, la institución que oficialmente mide la pobreza en México). 
+                        Como los datos requeridos para realizar la medición de la pobreza de las afromexicanas y los afromexicanos no son exhaustivos, 
+                        elegimos las variables que consideramos relevantes para describir cada dimensión. 
+                        Destaca que <b>no se incluye en el análisis</b> las dimensiones <i>Acceso a alimentación</i>, 
+                        <i>Acceso a seguridad social</i> y <i>Grado de cohesión social</i>. 
+                        (La descripción de las dimensiones <i>in extenso</i> puede consultarse 
+                        <a href="http://www.coneval.org.mx/Medicion/Paginas/Medici%C3%B3n/Indicadores-de-carencia-social.aspx"
+                           style="color:#cc2ac1">aquí</a>.) 
+                        En los apartados siguientes se especifica qué variables utilizamos para cada dimensión.
                     </p>
                     <hr>
                 </div>
@@ -121,135 +123,94 @@
             </div>
             </section>
             <!--// end row -->
-            <!-- Cuańtos son -->
-            <div class="section-separator">
             <div class="row margin-b-10">
                 <div class="col-sm-2">
                 </div>
                 <div class="col-sm-8">
-                    <h2>¿Cuántas y cuántos afrodescendientes hay en México?</h2>
-                </div>
-                <div class="col-sm-2">
-                </div>
-            </div>
-            <!-- endrow -->
-            <div class="row margin-b-10" style="text-align: center;" style="display: inline;">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-4" style="display: inline;">
+                    <h2>Ingreso</h2>
+                    <br>
                     <p align="justify" style="color:#4f5156">
-                        Desde 2010 varias organizaciones como <a href="http://mexiconegroac.blogspot.mx/">México Negro A.C</a>
-                        y el <a href="http://www.conapred.org.mx">CONAPRED</a> (Consejo Nacional para Prevenir la Discriminación) 
-                        intensificaron sus peticiones al <a href="http://www.inegi.org.mx">INEGI</a> 
-                        (Instituo Nacional de Estadística y Geografía, la institución que cuenta la población en México) 
-                        de contar el número de afromexicanas y afromexicanas. 
-                        Debido a la presión ejercida por estas y otras organizaciones, 
-                        en 2011 la ONU recomendó al INEGI realizar el conteo solicitado. 
-                        Así en 2015 el INEGI por primera vez decidió calcular 
-                        el número de afrodescendientes en México incluyendo en la 
-                        <a href="http://www.beta.inegi.org.mx/proyectos/enchogares/especiales/intercensal/"> Encuesta Intercensal 2015 </a> 
-                        (EIC 2015) la pregunta a un costado.
+                    Consideramos como <b>variable relevante</b> el <b>ingreso por trabajo</b>. 
+                    Del <b>ingreso por trabajo</b> se consideran <b>debajo del bienestar de ingreso</b> 
+                    a aquellas afromexicanas y afromexicanos con un <b>ingreso por trabajo menor a un salario mínimo mensual 
+                    (del 2015)</b>. Con estos supuestos obtenemos los siguientes resultados:
                     </p>
-                </div>
-                <div class="col-sm-4">
-                    <img src="../images/Captura de pantalla de 2017-05-06 20-57-51.png" align="center">
+                    <br>
+                    <br>
+                     <table>
+                     <caption> Elaborada con datos de la EIC 2015</caption>
+                      <tr>
+                        <th> </th>
+                        <th style="text-align:center">Afromexicanas y afromexicanos</th>
+                        <th style="text-align:center">Mexicanas y mexicanos</th>
+                      </tr>
+                      <tr>
+                        <td>Porcentaje  debajo del bienestar de ingreso</td>
+                        <td style="text-align:center" >9.1%</td>
+                        <td style="text-align:center">7.8%</td>
+                       </tr>
+                    </table> 
+                    <br>
+                    <br>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                    La distribución a nivel estatal de bienestar de ingreso bajo es:
+                    </p>
+                    <br>
                 </div>
                 <div class="col-sm-2">
                 </div>
             </div>
-            <!-- end row -->
-            <div class="row margin-b-10" style="text-align: center;" style="display: inline;">
+            <!--// end row -->
+
+            <div class="row margin-b-50">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8 sm-margin-b-50">
+                    <div class="margin-b-20">
+                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
+                            <img class="img-responsive" src="../../maps/ingreso.png" alt="Mapa ingreso">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// end row -->
+
+            <div class="row margin-b-10">
                 <div class="col-sm-2">
                 </div>
                 <div class="col-sm-8">
-                    <br>
-                    <br>
-                    <h3> ¿Afrodescendientes mexicanos? </h3>
-                    <p> De acuerdo a los datos reportados por el estudio <a href="http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825090272.pdf">
-                        Perfil sociodemográfico de la población afrodescendiente en México</a> elaborado en conjunto por el <a href="http://www.inegi.org.mx">INEGI</a>,
-                         el <a href="http://www.conapred.org.mx">CONAPRED</a> y la <a href="www.cndh.org.mx/">Comisión Nacional de Derechos Humanos México</a> 
-                        (CNDH) la distribución de los <b>afrodescendientes en México nacidos en otro país</b> es:
-                    </p>
-                    <br>
-                    <br>
-                    <div id="inner" class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
-                            <img class="img-responsive" src="../../images/otropais.PNG" alt="Otro país" align="center">
-                    </div>
-                    <br>
-                    <br>
-                    <p> Obsérvese que el porcentaje de la población afrodescendiente nacida en otro país en en promedio baja. Es por esto 
-                        que decidimos utilizar los términos afromexicanas y afromexicanos para designar a toda la población afrodescendiente
-                        en México. <br><br>
-                        Por otro lado, según los datos 
-                        <a href="http://www.beta.inegi.org.mx/proyectos/enchogares/especiales/intercensal/">tabulados</a>  
-                        de la EIC 2015, los resultados obtenidos <b>a nivel nacional</b> de realizar la pregunta anterior son los siguientes:
+                    <p align="justify" style="color:#4f5156">
+                        De donde los <b>cinco estados</b> con mayor porcentaje de afromexicanas y afromexicanos 
+                        <b>debajo del bienestar de ingreso</b> son:
                     </p>
                     <br>
                     <br>
                     <table>
                         <caption> Elaborada con datos de la EIC 2015</caption>
                         <tr>
-                             <th>Respuesta </th>
-                             <th>Porcentaje del total de la población</th>
-                             <th>Total </th>
+                             <th>Estado</th>
+                             <th>Porcentaje debajo del bienestar de ingreso</th>
                         </tr>
                         <tr>
-                             <td>Sí </td>
-                             <td>1.16%</td>
-                             <td>1 381 853</td>
+                             <td>Guerrero </td>
+                             <td>14.4%</td>
                         </tr>
                         <tr>
-                             <td>Sí, en parte</td>
-                             <td>0.50% </td>
-                             <td>597 654</td>
+                             <td>Veracruz</td>
+                             <td>13.4% </td>
                         </tr>
                         <tr>
-                             <td>No </td>
-                             <td>96.03% </td>
-                             <td>114 785 382</td>
+                             <td>Morelos</td>
+                             <td>13.3% </td>
                         </tr>
                         <tr>
-                             <td> No sabe</td>
-                             <td> 1.41% </td>
-                             <td> 2 765 854</td>
-                        </tr>
-                    </table>
-                    <br>
-                    <br>
-                    <p align="justify" style="color:#4f5156">
-                        Es decir, <b>1 de cada 100 habitantes de México se considera afrodescendiente</b>.
-                        No obstante la anterior no es una cifra definitiva pues como señala el activista
-                        Sergio Peñaloza Pérez (presidente de México Negro A.C.), el resultado de la EIC 2015
-                    </p>
-                    <blockquote>
-                        No refleja verdaderamente cuántos somos, 
-                        porque muchos prefieren no asumir esa identidad debido a la 
-                        discriminación histórica que hemos
-                        padecido.
-                    </blockquote>
-                    <br>
-                    <br>
-                    <p align="justify" style="color:#4f5156">
-                        Por otro lado, la distribución de afromexicanas y afromexicanos por sexo es:
-                    </p>
-                    <br>
-                    <br>
-                    <table>
-                        <caption> Elaborada con datos de la EIC 2015</caption>
-                        <tr>
-                             <th>Sexo</th>
-                             <th>Porcentaje del total de afromexicanas y afromexicanos</th>
-                             <th>Porcentaje del total de mexicanas y mexicanos</th>
+                             <td>Michoacán</td>
+                             <td> 13.1% </td>
                         </tr>
                         <tr>
-                             <td>Femenino</td>
-                             <td>51%</td>
-                             <td>51.4%</td>
-                        </tr>
-                        <tr>
-                             <td>Masculino</td>
-                             <td>49%</td>
-                             <td>48.6%</td>
+                             <td>Chiapas</td>
+                             <td> 13.0% </td>
                         </tr>
                     </table>
                     <br>
@@ -259,20 +220,40 @@
                 <div class="col-sm-2">
                 </div>
             </div>
-            </div>
             <!--// end row -->
-               
-            <!-- Distribucin a nivel estatal -->
+            <!-- Ingreso -->
+            <!-- Rezago educativo -->
             <div class="row margin-b-10">
                 <div class="col-sm-2">
                 </div>
                 <div class="col-sm-8">
-                    <h2>¿Cómo se distribuyen las afromexicanas y los afromexicanos en el país?</h2>
+                    <h2>Rezago educativo</h2>
+                    <br>
                     <p align="justify" style="color:#4f5156">
-                        Además, la EIC 2015 nos permite conocer cómo están distribuidos las afromexicanas y los afromexicanos. 
-                        Por número de habitantes se distribuyen de la siguiente manera:
+                        Consideramos a la <b>población con rezago educativo</b> a aquella que tiene 
+                        <b>15 y más</b> años de edad y <b>no ha concluido la educación secundaria</b>. 
+                        Con lo cual se obtiene el siguiente resultado:
                     </p>
                     <br>
+                    <br>
+                     <table>
+                      <tr>
+                        <th> </th>
+                        <th style="text-align:center">Afromexicanas y afromexicanos</th>
+                        <th style="text-align:center">Mexicanas y mexicanos</th>
+                      </tr>
+                      <tr>
+                        <td>Porcentaje con rezago educativo</td>
+                        <td style="text-align:center" >36.9%</td>
+                        <td style="text-align:center">35.1%</td>
+                       </tr>
+                    </table> 
+                    <br>
+                    <br>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                    La distribución a nivel estatal de rezago educativo es:
+                    </p>
                     <br>
                 </div>
                 <div class="col-sm-2">
@@ -280,230 +261,393 @@
             </div>
             <!--// end row -->
             
+            <div class="row margin-b-50">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8 sm-margin-b-50">
+                    <div class="margin-b-20">
+                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
+                            <img class="img-responsive" src="../../maps/rezago.png" alt="Mapa rezago">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// end row -->
+
+            <div class="row margin-b-10">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                    <p align="justify" style="color:#4f5156">
+                        De donde los <b>cinco estados</b> con mayor porcentaje de afromexicanas y afromexicanos 
+                        <b>con rezago educativo</b> son:
+                    </p>
+                    <br>
+                    <br>
+                    <table>
+                        <caption> Elaborada con datos de la EIC 2015</caption>
+                        <tr>
+                             <th>Estado</th>
+                             <th>Porcentaje en rezago educativo</th>
+                        </tr>
+                        <tr>
+                             <td>Morelos</td>
+                             <td>52.6%</td>
+                        </tr>
+                        <tr>
+                             <td>Oaxaca</td>
+                             <td>52.1%</td>
+                        </tr>
+                        <tr>
+                             <td>Baja California Sur</td>
+                             <td>49.5%</td>
+                        </tr>
+                        <tr>
+                             <td>Chiapas</td>
+                             <td>48.4%</td>
+                        </tr>
+                        <tr>
+                             <td>Guerrero</td>
+                             <td>45.2%</td>
+                        </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <hr>   
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+            <!--// end row -->
+            <!-- Rezago educativo -->
+            <!-- Acceso a servicios de salud -->
+            <div class="row margin-b-10">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                    <h2>Acceso a servicios de salud</h2>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                        La <b>variable relevante</b> es la 
+                        <b>afiliación (o no) a servicios de salud</b>. 
+                        Con ello obtenemos:
+                    </p>
+                    <br>
+                    <br>
+                     <table>
+                      <caption> Elaborada con datos de la EIC 2015</caption>
+                      <tr>
+                        <th> </th>
+                        <th style="text-align:center">Afromexicanas y afromexicanos</th>
+                        <th style="text-align:center">Mexicanas y mexicanos</th>
+                      </tr>
+                      <tr>
+                        <td>Porcentaje afiliada</td>
+                        <td style="text-align:center" >82.1%</td>
+                        <td style="text-align:center">82.2%</td>
+                       </tr>
+                       <tr>
+                        <td>Porcentaje afiliada</td>
+                        <td style="text-align:center">17.7%</td>
+                        <td style="text-align:center">17.3%</td>
+                       </tr>
+                    </table> 
+                    <br>
+                    <br>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                    La distribución a nivel estatal de rezago educativo es:
+                    </p>
+                    <br>
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+            <!--// end row -->
+            
+            <div class="row margin-b-50">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8 sm-margin-b-50">
+                    <div class="margin-b-20">
+                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
+                            <img class="img-responsive" src="../../maps/salud.png" alt="Mapa ingreso">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// end row -->
+
+            <div class="row margin-b-10">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                    <p align="justify" style="color:#4f5156">
+                        De donde los <b>cinco estados</b> con mayor porcentaje de afromexicanas y afromexicanos 
+                        <b>sin afiliación a servicios de salud</b> son:
+                    </p>
+                    <br>
+                    <br>
+                    <table>
+                        <caption> Elaborada con datos de la EIC 2015</caption>
+                        <tr>
+                             <th>Estado</th>
+                             <th>Porcentaje sin afiliación a servicios de salud</th>
+                        </tr>
+                        <tr>
+                             <td>Michoacán</td>
+                             <td>32.1%</td>
+                        </tr>
+                        <tr>
+                             <td>Chiapas</td>
+                             <td>29.7%</td>
+                        </tr>
+                        <tr>
+                             <td>Yucatán</td>
+                             <td>26.8%</td>
+                        </tr>
+                        <tr>
+                             <td>Tabasco</td>
+                             <td>25.4%</td>
+                        </tr>
+                        <tr>
+                             <td>Puebla</td>
+                             <td>21.3%</td>
+                        </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <hr>
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+            <!--// end row -->
+            <!-- Salud -->
+            <!-- Calidad y espacios de la vivienda -->
+            <div class="row margin-b-10">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                    <h2>Calidad y espacios de la vivienda</h2>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                        La <b>variable relevante</b> es el
+                        <b>material del piso de la vivienda</b>. 
+                        Con ello obtenemos:
+                    </p>
+                    <br>
+                    <br>
+                     <table>
+                      <caption> Elaborada con datos de la EIC 2015</caption>
+                      <tr>
+                        <th> </th>
+                        <th style="text-align:center">Afromexicanas y afromexicanos</th>
+                        <th style="text-align:center">Mexicanas y mexicanos</th>
+                      </tr>
+                      <tr>
+                        <td>Viviendas con pisos de tierra</td>
+                        <td style="text-align:center" >5.1%</td>
+                        <td style="text-align:center">3.6%</td>
+                       </tr>
+                       <tr>
+                        <td>Viviendas con pisos de cemento o firme</td>
+                        <td style="text-align:center">58.0%</td>
+                        <td style="text-align:center">52.7%</td>
+                       </tr>
+                       <tr>
+                        <td>Viviendas con pisos de mosaico, madera u otro</td>
+                        <td style="text-align:center">36.5%</td>
+                        <td style="text-align:center">43.2%</td>
+                       </tr>
+                    </table> 
+                    <br>
+                    <br>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                    La distribución a nivel estatal es:
+                    </p>
+                    <br>
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+            <!--// end row -->
+            
+            <div class="row margin-b-50">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8 sm-margin-b-50">
+                    <div class="margin-b-20">
+                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
+                            <img class="img-responsive" src="../../maps/vivienda.png" alt="Mapa ingreso">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// end row -->
+
+            <div class="row margin-b-10">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                    <p align="justify" style="color:#4f5156">
+                        De donde los <b>cinco estados</b> con mayor porcentaje de afromexicanas y afromexicanos 
+                        cuyas viviendas <b>tienen piso de tierra</b> son:
+                    </p>
+                    <br>
+                    <br>
+                    <table>
+                        <caption> Elaborada con datos de la EIC 2015</caption>
+                        <tr>
+                             <th>Estado</th>
+                             <th>Viviendas con piso de tierra</th>
+                        </tr>
+                        <tr>
+                             <td>Guerrero</td>
+                             <td>11.9%</td>
+                        </tr>
+                        <tr>
+                             <td>Oaxaca</td>
+                             <td>11.1%</td>
+                        </tr>
+                        <tr>
+                             <td>Veracruz</td>
+                             <td>6.9%</td>
+                        </tr>
+                        <tr>
+                             <td>Chiapas</td>
+                             <td>6.6%</td>
+                        </tr>
+                        <tr>
+                             <td>Michoacán</td>
+                             <td>5.2%</td>
+                        </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <hr>
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+            <!--// end row -->
+            <!-- Vivienda -->
+            <!-- Acceso a servicios básicos de la vivienda -->
+            <div class="row margin-b-10">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                    <h2>Acceso a servicios básicos de la vivienda</h2>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                        La <b>variable relevante</b> es el
+                        <b>disposición de agua entubada</b>. 
+                        Con ello obtenemos:
+                    </p>
+                    <br>
+                    <br>
+                     <table>
+                      <caption> Elaborada con datos de la EIC 2015</caption>
+                      <tr>
+                        <th> </th>
+                        <th style="text-align:center">Afromexicanas y afromexicanos</th>
+                        <th style="text-align:center">Mexicanas y mexicanos</th>
+                      </tr>
+                      <tr>
+                        <td>Viviendas sin agua entubada</td>
+                        <td style="text-align:center" >8.0%</td>
+                        <td style="text-align:center">5.4%</td>
+                       </tr>
+                    </table> 
+                    <br>
+                    <br>
+                    <br>
+                    <p align="justify" style="color:#4f5156">
+                    La distribución a nivel estatal es:
+                    </p>
+                    <br>
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+            <!--// end row -->
+            
+            <div class="row margin-b-50">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8 sm-margin-b-50">
+                    <div class="margin-b-20">
+                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
+                            <img class="img-responsive" src="../../maps/agua.png" alt="Mapa ingreso">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--// end row -->
+
+            <div class="row margin-b-10">
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                    <p align="justify" style="color:#4f5156">
+                        De donde los <b>cinco estados</b> con mayor porcentaje de afromexicanas y afromexicanos 
+                        cuyas viviendas <b>no tienen agua entubada</b> son:
+                    </p>
+                    <br>
+                    <br>
+                    <table>
+                        <caption> Elaborada con datos de la EIC 2015</caption>
+                        <tr>
+                             <th>Estado</th>
+                             <th>Viviendas sin agua entubada</th>
+                        </tr>
+                        <tr>
+                             <td>Guerrero</td>
+                             <td>14.8%</td>
+                        </tr>
+                        <tr>
+                             <td>Veracruz</td>
+                             <td>14.7%</td>
+                        </tr>
+                        <tr>
+                             <td>Oaxaca</td>
+                             <td>12.6%</td>
+                        </tr>
+                        <tr>
+                             <td>Chiapas</td>
+                             <td>11.0%</td>
+                        </tr>
+                        <tr>
+                             <td>Baja California Sur</td>
+                             <td>10.1%</td>
+                        </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <hr>
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+            <!--// end row -->
+            <!-- Vivienda -->
             <div class="row margin-b-50">
                 <div class="col-sm-2">
                 </div>
                 <div class="col-sm-8 sm-margin-b-50">
                     <div class="margin-b-20" align="center">
-                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
-                            <iframe src="../maps/mapa_porc.html" frameborder="0"></iframe>
-                            <!--img class="img-responsive" src="../../maps/tot_pob.png" alt="Mapa población"-->
-                        </div>
+                         <iframe width="420" height="315"
+                        src="https://www.youtube.com/embed/IBzttbmQr5g?start=75&end=88&version=3" frameborder="0">
+                        </iframe> 
                     </div>
                 </div>
             </div>
-            <!--// end row -->
-
-            <div class="row margin-b-10">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8">
-                    <p align="justify" style="color:#4f5156">
-                        De donde los <b>cinco estados</b> con <b>mayor cantidad</b> de afromexicanas y afromexicanos son
-                    </p>
-                    <br>
-                    <br>
-                    <table>
-                        <caption> Elaborada con datos de la EIC 2015</caption>
-                        <tr>
-                             <th>Estado</th>
-                             <th>Total de afromexicanas y afromexicanos</th>
-                        </tr>
-                        <tr>
-                             <td>México</td>
-                             <td>304 274</td>
-                        </tr>
-                        <tr>
-                             <td>Veracruz</td>
-                             <td>266 163</td>
-                        </tr>
-                        <tr>
-                             <td>Guerrero</td>
-                             <td>229 514</td>
-                        </tr>
-                        <tr>
-                             <td>Oaxaca</td>
-                             <td>196 213</td>
-                        </tr>
-                        <tr>
-                             <td>Ciudad de México</td>
-                             <td>160 353</td>
-                        </tr>
-                    </table>
-                    <br>
-                    <br>
-                    <p align="justify" style="color:#4f5156">
-                        En proporción con la población estatal, sin embargo, se distribuyen como sigue:
-                    </p>
-                    <br>
-                    <br>
-                </div>
-                <div class="col-sm-2">
-                </div>
-            </div>
-            <!--// end row -->
-           
-            <div class="row margin-b-50">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8 sm-margin-b-50">
-                    <div class="margin-b-20">
-                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
-                            <img class="img-responsive" src="../../maps/mapa_porc.png" alt="Mapa poblacion rel">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--// end row -->
-
-            <div class="row margin-b-10">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8">
-                    <p align="justify" style="color:#4f5156">
-                        De donde los <b>cinco estados</b> con <b>mayor porcentaje</b> de afromexicanas y afromexicanos 
-                        son:
-                    </p>
-                    <br>
-                    <br>
-                    <table>
-                        <caption> Elaborada con datos de la EIC 2015</caption>
-                        <tr>
-                             <th>Estado</th>
-                             <th>Porcentaje de afromexicanas y afromexicanos</th>
-                        </tr>
-                        <tr>
-                             <td>Guerrero</td>
-                             <td>6.5%</td>
-                        </tr>
-                        <tr>
-                             <td>Oaxaca</td>
-                             <td>4.9%</td>
-                        </tr>
-                        <tr>
-                             <td>Veracruz</td>
-                             <td>3.3%</td>
-                        </tr>
-                        <tr>
-                             <td>México</td>
-                             <td>1.9%</td>
-                        </tr>
-                        <tr>
-                             <td>Ciudad de México</td>
-                             <td>1.8%</td>
-                        </tr>
-                    </table>
-                    <br>
-                    <br>
-                    <hr>
-                </div>
-                <div class="col-sm-2">
-                </div>
-                <!-- en row -->
-            </div>
-            <!--// end row -->
-            <!--Afroindígenas-->
-            <div class="row margin-b-10">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8">
-                    <h2> ¿Afromexicanas y afromexicanos indígenas? </h2>
-                    <p> Existe un sector de la población mexicana que además de considerarse <b>afrodescendiente</b> también pertenece
-                        a un <b>pueblo indígena</b>. A estos grupos suele reconocérceles como <b>afroindígenas</b> (véase, por ejemplo,
-                        <a href="http://www.conapred.org.mx/userfiles/files/TestimonioAFRO-INACCSS%281%29.pdf">este</a> estudio del CONAPRED). Según la EIC 2015 la distribución por entidad federativa de las afromexicanas
-                        y afromexicanos que se considera índigena es:
-                    </p>
-                    <br>
-                    <br>
-                </div>
-                <div class="col-sm-2">
-                </div>
-            </div>
-                <!-- end row -->
-            <div class="row margin-b-50">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8 sm-margin-b-50">
-                    <div class="margin-b-20">
-                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
-                            <figure>
-                                <img id="inner" class="img-responsive" src="../../images/autoindest.PNG" alt="Poblacion afroindigena">
-                                <figcaption>Elaborado por el INEGI, EIC 2015.</figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--// end row -->
-
-            <div class="row margin-b-10">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8">
-                    <p> El <b>sexo</b>, por otro lado, de la población que se considera afroindígena se distribuye de la siguiente manera: </p>
-                    <br>
-                    <br>
-                </div>
-                <div class="col-sm-2">
-                </div>
-                <!-- end row -->
-            </div>
-            <!-- end row-->
-            <div class="row margin-b-50">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8 sm-margin-b-50">
-                    <div class="margin-b-20">
-                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
-                            <figure>
-                                <img id="inner" class="img-responsive" src="../../images/autoind.PNG" alt="Poblacion afroindigena por sexo">
-                                <figcaption>Elaborado por el INEGI, EIC 2015.</figcaption>
-                            </figure>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row margin-b-10">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8">
-                    <p> Y, por último, tenemos que la distribución por sexo de las afromexicanas y afromexicanos que <b>hablan alguna
-                        lengua indígena</b> es:
-                    </p>
-                    <br>
-                    <br>
-                </div>
-                <div class="col-sm-2">
-                </div>
-            </div>
-                <!-- end row -->
-            <div class="row margin-b-50">
-                <div class="col-sm-2">
-                </div>
-                <div class="col-sm-8 sm-margin-b-50">
-                    <div class="margin-b-20">
-                        <div class="wow zoomIn" data-wow-duration="1" data-wow-delay=".1s">
-                            <figure>
-                                <img id="inner" class="img-responsive" src="../../images/hablaind.PNG" alt="Poblacion afrodescendiente que habla
-                                                                                                 alguna lengua indígena">
-                                <figcaption>Elaborado por el INEGI, EIC 2015.</figcaption>
-                            </figure>
-                        </div>
-                        <br>
-                        <br>
-                        <hr>
-                        <p>Con todo lo anterior podemos observar que los grupos afrodescendientes en nuestro país están distribuidos
-                            en todo el territorio nacional, particularmente en estados sureños. 
-                            Si quieres conocer más sobre las afromexicanas y los afromexicanos, te recomendamos seguir 
-                                <a href="../desarrollo/pobreza"> por aquí</a>. </p>
-                    </div>
-                </div>
-            </div>
-            <!--// end row -->
-
-        </div>    
             
         <!--========== END PAGE LAYOUT ==========-->
+
+      
+
         <!-- Back To Top -->
         <a href="javascript:void(0);" class="js-back-to-top back-to-top">Subir</a>
 
